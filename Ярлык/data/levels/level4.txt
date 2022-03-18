@@ -1,0 +1,9 @@
+.	.	.	.	.	.	.	.	.	.
+.	scarecrow.png	.	scarecrow.png	.	scarecrow.png	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.
+.	portal.png	.	.	.	.	.	.	dog.png	.
+.	.	.	.	.	.	.	.	.	.
+7 6
